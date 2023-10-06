@@ -137,16 +137,16 @@ a {
     border-radius: 50%;
     background: #ffffff;
 }
-.action {
+.header-action {
     display: flex;
     align-items: center;
 }
 
-.action__login {
+.header-action__login {
     margin-right: 7px;
 }
 
-.action__signup {
+.header-action__signup {
     --height: 44px;
     min-width: 104px;
 }
